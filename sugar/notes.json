@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "cola"
+    },
+    {
+      "id": 1,
+      "name": "fenta"
+    },
+    {
+      "id": 2,
+      "name": "sprite"
+    },
+    {
+      "id": 3,
+      "name": "sugar"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
